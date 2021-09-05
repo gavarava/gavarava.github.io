@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Gaurav Edekar",
+    "occupation": "Systems Developer at Trustly",
+    "description": "Working with Online Payments since the past few months, I have worked in the Online Retail Industry and Access Control domain, with feature development using Java and DevOps being the focus of my activities.",
+    "image": "profilepic.jpg",
+    "bio": "",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "edekar.gaurav@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "Drakflygargatan 6, Skarpnäck",
+      "city": "Stockholm",
+      "state": "Stockholms Län",
+      "zip": "12836"
+    },
+    "website": "https://www.linkedin.com/in/gaurav-edekar-8a560361/",
+    "resumedownload": "https://www.linkedin.com/in/gaurav-edekar-8a560361/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gaurav-edekar-8a560361/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/edekar.gaurav",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/gavarava",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Some of my skills that I have gathered working with various projects.",
+    "education": [
+      {
+        "school": "Mumbai University",
+        "degree": "Bachelor of Engineering, Information Technology",
+        "graduated": "September 2010",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Trustly AB",
+        "title": "Java Engineer",
+        "years": "May 2020 - Present",
+        "description": ""
+      },
+      {
+        "company": "Axiomatics AB",
+        "title": "Software Engineer",
+        "years": "December 2017 - May 2020",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Feature Development using Java",
+        "level": "80%"
+      },
+      {
+        "name": "DevOps - Build, Release, Deployment & Versioning",
+        "level": "60%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "50%"
+      },
+      {
+        "name": "Java 7,8,11",
+        "level": "80%"
+      },
+      {
+        "name": "Postgresql",
+        "level": "80%"
+      },
+      {
+        "name": "Gradle",
+        "level": "60%"
+      },
+      {
+        "name": "Maven",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "20%"
+      },
+      {
+        "name": "CSS",
+        "level": "20%"
+      },
+      {
+        "name": "HTML5",
+        "level": "20%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": []
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I had the joy of working with Gaurav during a year or so.\n\nGaurav is very diligent and hard working, which combined with his solid developer skills makes him a team member that any team would be proud and happy to have in their ranks.\n\nWhat impresses me the most with Gaurav is his willingness to learn new things and step out of his comfort zone. Gaurav came to our team as a developer on the Oracle Web Commerce platform, but as our needs grew outside that sphere Gaurave were among the first to step up and take on the challenge.\n\nFor me particular I was also happy to see how he adopted to new culture and ways of working (in this case agile, lean and lean product development) in a great way.\n\nAll in all I found working with Gaurav a joy and I would be happy to have him in my team again.",
+        "user": "Marcus Hammarberg"
+      }
+    ]
+  }
+}
