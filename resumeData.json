@@ -2,7 +2,7 @@
   "main": {
     "name": "Gaurav Edekar",
     "occupation": "Systems Developer at Trustly",
-    "description": "Working with Online Payments since the past few months, I have worked in the Online Retail Industry and Access Control domain, with feature development using Java and DevOps being the focus of my activities.",
+    "description": "Working with Online Payments since the past few months, I have worked in the Online Retail Industry and Access Control domain, with feature development using Java and DevOps being the focus of my activities for the last 10 years.",
     "image": "profilepic.jpg",
     "bio": "",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -57,16 +57,23 @@
     "work": [
       {
         "company": "Trustly AB",
-        "title": "Java Engineer",
+        "title": "Systemutvecklare",
         "years": "May 2020 - Present",
         "description": ""
       },
       {
         "company": "Axiomatics AB",
-        "title": "Software Engineer",
+        "title": "Java Engineer",
         "years": "December 2017 - May 2020",
         "description": ""
+      },
+      {
+        "company": "ICA Online",
+        "title": "Software Engineer (Konsult)",
+        "years": "December 2015 - December 2017",
+        "description": ""
       }
+
     ],
     "skills": [
       {
@@ -76,6 +83,10 @@
       {
         "name": "DevOps - Build, Release, Deployment & Versioning",
         "level": "60%"
+      },
+      {
+        "name": "A/B Testing",
+        "level": "50%"
       },
       {
         "name": "Kubernetes",
@@ -112,6 +123,22 @@
       {
         "name": "HTML5",
         "level": "20%"
+      },
+      {
+        "name": "Scala",
+        "level": "20%"
+      },
+      {
+        "name": "Test Driven Development",
+        "level": "60%"
+      },
+      {
+        "name": "Behaviour Driven Development",
+        "level": "40%"
+      },
+      {
+        "name": "Performance Testing using Gatling",
+        "level": "60%"
       }
     ]
   },
