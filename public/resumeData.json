@@ -5,7 +5,7 @@
     "description": "Working with Online Payments since the past few months, I have worked in the Online Retail Industry and Access Control domain, with feature development using Java and DevOps being the focus of my activities for the last 10 years.",
     "image": "profilepic.jpg",
     "bio": "",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "",
     "email": "edekar.gaurav@gmail.com",
     "phone": "",
     "address": {
@@ -57,7 +57,7 @@
     "work": [
       {
         "company": "Trustly AB",
-        "title": "Systemutvecklare",
+        "title": "Software Engineer",
         "years": "May 2020 - Present",
         "description": ""
       },
@@ -69,11 +69,34 @@
       },
       {
         "company": "ICA Online",
-        "title": "Software Engineer (Konsult)",
+        "title": "Software Engineer (Consultant)",
         "years": "December 2015 - December 2017",
         "description": ""
+      },
+      {
+        "company": "Infosys",
+        "title": "Senior Associate Consultant",
+        "years": "July 2015 - December 2017",
+        "description": ""
+      },
+      {
+        "company": "Medline India",
+        "title": "Consultant",
+        "years": "Jan 2015 - June 2015",
+        "description": "Consultant for Medline India on behalf of Persistent"
+      },
+      {
+        "company": "SapientNitro (now Publicis Sapient)",
+        "title": "Associate Level 2",
+        "years": "July 2013 - Jan 2015",
+        "description": ""
+      },
+      {
+        "company": "Logixal Inc",
+        "title": "Software Engineer",
+        "years": "April 2011 - June 2013",
+        "description": ""
       }
-
     ],
     "skills": [
       {
@@ -81,24 +104,32 @@
         "level": "80%"
       },
       {
-        "name": "DevOps - Build, Release, Deployment & Versioning",
-        "level": "60%"
+        "name": "Java 7,8,11",
+        "level": "80%"
       },
       {
-        "name": "A/B Testing",
-        "level": "50%"
+        "name": "DevOps - Build, Release, Deployment & Versioning",
+        "level": "60%"
       },
       {
         "name": "Kubernetes",
         "level": "50%"
       },
       {
-        "name": "Java 7,8,11",
-        "level": "80%"
+        "name": "A/B Testing",
+        "level": "50%"
       },
       {
         "name": "Postgresql",
         "level": "80%"
+      },
+      {
+        "name": "Redis",
+        "level": "30%"
+      },
+      {
+        "name": "Kafka",
+        "level": "40%"
       },
       {
         "name": "Gradle",
@@ -110,11 +141,11 @@
       },
       {
         "name": "Git",
-        "level": "50%"
+        "level": "80%"
       },
       {
-        "name": "ReactJs",
-        "level": "20%"
+        "name": "React Js",
+        "level": "30%"
       },
       {
         "name": "CSS",
@@ -125,12 +156,8 @@
         "level": "20%"
       },
       {
-        "name": "Scala",
-        "level": "20%"
-      },
-      {
         "name": "Test Driven Development",
-        "level": "60%"
+        "level": "90%"
       },
       {
         "name": "Behaviour Driven Development",
@@ -139,6 +166,10 @@
       {
         "name": "Performance Testing using Gatling",
         "level": "60%"
+      },
+      {
+        "name": "Scala",
+        "level": "20%"
       }
     ]
   },
