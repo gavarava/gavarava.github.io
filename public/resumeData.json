@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Gaurav Edekar",
-    "occupation": "Systems Developer at Trustly",
-    "description": "Working with Online Payments since the past few months, I have worked in the Online Retail Industry and Access Control domain, with feature development using Java and DevOps being the focus of my activities for the last 10 years.",
+    "occupation": "Software Engineer",
+    "description": "Working with Online Payments since the past one year, I have worked in the Online Retail Industry and Access Control domain, with feature development using Java and DevOps being the focus of my activities for the last 11 years",
     "image": "profilepic.jpg",
     "bio": "",
     "contactmessage": "",
@@ -45,7 +45,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Some of my skills that I have gathered working with various projects.",
+    "skillmessage": "",
     "education": [
       {
         "school": "Mumbai University",
@@ -57,7 +57,7 @@
     "work": [
       {
         "company": "Trustly AB",
-        "title": "Software Engineer",
+        "title": "Systemutvecklare",
         "years": "May 2020 - Present",
         "description": ""
       },
@@ -100,11 +100,18 @@
     ],
     "skills": [
       {
-        "name": "Feature Development using Java",
+        "name": "Java 7,8,11, 17",
         "level": "80%"
       },
       {
-        "name": "Java 7,8,11",
+        "name": "Spring Boot",
+        "level": "60%"
+      },
+      {
+        "name": "Dropwizard",
+        "level": "40%"
+      },{
+        "name": "Feature Development using Java",
         "level": "80%"
       },
       {
@@ -168,13 +175,18 @@
         "level": "60%"
       },
       {
+        "name": "End to End Testing using Selenium & Cypress",
+        "level": "70%"
+      },
+      {
         "name": "Scala",
         "level": "20%"
+      },
+      {
+        "name": "Grafana",
+        "level": "50%"
       }
     ]
-  },
-  "portfolio": {
-    "projects": []
   },
   "testimonials": {
     "testimonials": [
