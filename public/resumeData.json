@@ -6,10 +6,10 @@
     "image": "profilepic.jpg",
     "bio": "",
     "contactmessage": "",
-    "email": "edekar.gaurav@gmail.com",
+    "email": "",
     "phone": "",
     "address": {
-      "street": "Drakflygargatan 6, Skarpnäck",
+      "street": "",
       "city": "Stockholm",
       "state": "Stockholms Län",
       "zip": "12836"
@@ -56,9 +56,21 @@
     ],
     "work": [
       {
+        "company": "Blue Harvest Capgemini",
+        "title": "Lead Software Engineer",
+        "years": "June 2022 - Present",
+        "description": ""
+      },
+      {
+        "company": "Viaplay Group",
+        "title": "Senior Full Stack Engineer",
+        "years": "Apr 2022 - June 2022",
+        "description": ""
+      },
+      {
         "company": "Trustly AB",
         "title": "Systemutvecklare",
-        "years": "May 2020 - Present",
+        "years": "May 2020 - March 2022",
         "description": ""
       },
       {
@@ -101,15 +113,19 @@
     "skills": [
       {
         "name": "Java 7,8,11, 17",
-        "level": "80%"
+        "level": "95%"
       },
       {
-        "name": "Spring Boot",
-        "level": "60%"
+        "name": "Spring & Spring Boot",
+        "level": "90%"
       },
       {
         "name": "Dropwizard",
         "level": "40%"
+      },
+      {
+        "name": "Quarkus",
+        "level": "10%"
       },{
         "name": "Feature Development using Java",
         "level": "80%"
