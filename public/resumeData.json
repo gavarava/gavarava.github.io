@@ -1,8 +1,13 @@
 {
   "main": {
     "name": "Gaurav Edekar",
-    "occupation": "Software Engineer",
-    "description": "Working with Online Payments since the past one year, I have worked in the Online Retail Industry and Access Control domain, with feature development using Java and DevOps being the focus of my activities for the last 11 years",
+    "occupation": "Fullstack Software Engineer",
+    "experience": "12+",
+    "designation": "Lead Software Engineer",
+    "description": "I have worked in E-Commerce, Security, and Fintech domains like Online Payments & Banking.",
+    "description2": "My core technology stack is based on Java (and JavaScript) with technologies like Spring Boot, Spring, React-Redux, Kubernetes, Google Cloud Platform, Maven etc.",
+    "description3": "I have worked in various areas like backend-frontend development, migrations to microservices, launching new products in the cloud, automation testing etc.",
+    "description4": "I have used various agile development methodologies like Lean, Scrum, Kanban and SAFe in my projects.",
     "image": "profilepic.jpg",
     "bio": "",
     "contactmessage": "",
@@ -120,43 +125,52 @@
         "level": "90%"
       },
       {
-        "name": "Dropwizard",
-        "level": "40%"
-      },
-      {
-        "name": "Quarkus",
-        "level": "10%"
-      },{
-        "name": "Feature Development using Java",
-        "level": "80%"
-      },
-      {
-        "name": "DevOps - Build, Release, Deployment & Versioning",
+        "name": "Kubernetes",
         "level": "60%"
       },
       {
-        "name": "Kubernetes",
-        "level": "50%"
-      },
-      {
-        "name": "A/B Testing",
-        "level": "50%"
+        "name": "Kafka",
+        "level": "60%"
       },
       {
         "name": "Postgresql",
         "level": "80%"
       },
       {
+        "name": "Prometheus & Grafana",
+        "level": "90%"
+      },
+      {
+        "name": "Google Cloud Platform",
+        "level": "50%"
+      },
+      {
+        "name": "Dropwizard",
+        "level": "40%"
+      },
+      {
+        "name": "Quarkus",
+        "level": "10%"
+      },
+      {
+        "name": "Software Product Development",
+        "level": "90%"
+      },
+      {
+        "name": "Continuous Integration & Continuous Delivery",
+        "level": "75%"
+      },
+      {
+        "name": "A/B Testing",
+        "level": "60%"
+      },
+      {
         "name": "Redis",
         "level": "30%"
       },
       {
-        "name": "Kafka",
-        "level": "40%"
-      },
-      {
         "name": "Gradle",
-        "level": "60%"
+        "level": "20%"
       },
       {
         "name": "Maven",
@@ -164,7 +178,7 @@
       },
       {
         "name": "Git",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "React Js",
@@ -180,11 +194,11 @@
       },
       {
         "name": "Test Driven Development",
-        "level": "90%"
+        "level": "85%"
       },
       {
         "name": "Behaviour Driven Development",
-        "level": "40%"
+        "level": "50%"
       },
       {
         "name": "Performance Testing using Gatling",
@@ -199,8 +213,8 @@
         "level": "20%"
       },
       {
-        "name": "Grafana",
-        "level": "50%"
+        "name": "Tomcat",
+        "level": "40%"
       }
     ]
   },
